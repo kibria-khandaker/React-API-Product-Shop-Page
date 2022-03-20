@@ -1,0 +1,6 @@
+.menu-container{
+    list-style: none;
+    font-size: 20PX;
+    cursor: pointer;
+    text-transform: capitalize;
+}
