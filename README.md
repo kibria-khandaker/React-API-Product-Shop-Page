@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+## ALL Information available [in the link](https://reactjs.org/)
+## ALL Information available with Bangla [in the link](https://bn.reactjs.org/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
